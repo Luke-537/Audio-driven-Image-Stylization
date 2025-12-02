@@ -1,0 +1,12 @@
+rank,image_path,audio_path,score,image_rel,audio_rel
+1,datasets/images_small/style13.jpg,datasets/audio_subset/5-177779-A-33.wav,0.176894,style13.jpg,5-177779-A-33.wav
+2,datasets/images_small/style6.jpg,datasets/audio_subset/4-132839-A-33.wav,0.168528,style6.jpg,4-132839-A-33.wav
+3,datasets/images_small/style3.jpg,datasets/audio_subset/5-178997-A-24.wav,0.138587,style3.jpg,5-178997-A-24.wav
+4,datasets/images_small/style2.jpg,datasets/audio_subset/1-58277-A-3.wav,0.1284,style2.jpg,1-58277-A-3.wav
+5,datasets/images_small/style8.jpg,datasets/audio_subset/5-262641-A-15.wav,0.110969,style8.jpg,5-262641-A-15.wav
+6,datasets/images_small/style4.jpg,datasets/audio_subset/2-50774-A-23.wav,0.076922,style4.jpg,2-50774-A-23.wav
+7,datasets/images_small/style10.jpg,datasets/audio_subset/3-117504-A-16.wav,0.07608,style10.jpg,3-117504-A-16.wav
+8,datasets/images_small/style15.jpg,datasets/audio_subset/4-126532-A-18.wav,0.071152,style15.jpg,4-126532-A-18.wav
+9,datasets/images_small/style14.jpg,datasets/audio_subset/2-56926-A-46.wav,0.02696,style14.jpg,2-56926-A-46.wav
+10,datasets/images_small/style9.jpg,datasets/audio_subset/3-118658-A-41.wav,0.025971,style9.jpg,3-118658-A-41.wav
+11,datasets/images_small/style12.jpg,datasets/audio_subset/1-60460-A-36.wav,0.024379,style12.jpg,1-60460-A-36.wav

@@ -1,0 +1,90 @@
+[
+  {
+    "rank": 1,
+    "image_path": "datasets/images_small/style13.jpg",
+    "audio_path": "datasets/audio_subset/5-177779-A-33.wav",
+    "score": 0.176894,
+    "image_rel": "style13.jpg",
+    "audio_rel": "5-177779-A-33.wav"
+  },
+  {
+    "rank": 2,
+    "image_path": "datasets/images_small/style6.jpg",
+    "audio_path": "datasets/audio_subset/4-132839-A-33.wav",
+    "score": 0.168528,
+    "image_rel": "style6.jpg",
+    "audio_rel": "4-132839-A-33.wav"
+  },
+  {
+    "rank": 3,
+    "image_path": "datasets/images_small/style3.jpg",
+    "audio_path": "datasets/audio_subset/5-178997-A-24.wav",
+    "score": 0.138587,
+    "image_rel": "style3.jpg",
+    "audio_rel": "5-178997-A-24.wav"
+  },
+  {
+    "rank": 4,
+    "image_path": "datasets/images_small/style2.jpg",
+    "audio_path": "datasets/audio_subset/1-58277-A-3.wav",
+    "score": 0.1284,
+    "image_rel": "style2.jpg",
+    "audio_rel": "1-58277-A-3.wav"
+  },
+  {
+    "rank": 5,
+    "image_path": "datasets/images_small/style8.jpg",
+    "audio_path": "datasets/audio_subset/5-262641-A-15.wav",
+    "score": 0.110969,
+    "image_rel": "style8.jpg",
+    "audio_rel": "5-262641-A-15.wav"
+  },
+  {
+    "rank": 6,
+    "image_path": "datasets/images_small/style4.jpg",
+    "audio_path": "datasets/audio_subset/2-50774-A-23.wav",
+    "score": 0.076922,
+    "image_rel": "style4.jpg",
+    "audio_rel": "2-50774-A-23.wav"
+  },
+  {
+    "rank": 7,
+    "image_path": "datasets/images_small/style10.jpg",
+    "audio_path": "datasets/audio_subset/3-117504-A-16.wav",
+    "score": 0.07608,
+    "image_rel": "style10.jpg",
+    "audio_rel": "3-117504-A-16.wav"
+  },
+  {
+    "rank": 8,
+    "image_path": "datasets/images_small/style15.jpg",
+    "audio_path": "datasets/audio_subset/4-126532-A-18.wav",
+    "score": 0.071152,
+    "image_rel": "style15.jpg",
+    "audio_rel": "4-126532-A-18.wav"
+  },
+  {
+    "rank": 9,
+    "image_path": "datasets/images_small/style14.jpg",
+    "audio_path": "datasets/audio_subset/2-56926-A-46.wav",
+    "score": 0.02696,
+    "image_rel": "style14.jpg",
+    "audio_rel": "2-56926-A-46.wav"
+  },
+  {
+    "rank": 10,
+    "image_path": "datasets/images_small/style9.jpg",
+    "audio_path": "datasets/audio_subset/3-118658-A-41.wav",
+    "score": 0.025971,
+    "image_rel": "style9.jpg",
+    "audio_rel": "3-118658-A-41.wav"
+  },
+  {
+    "rank": 11,
+    "image_path": "datasets/images_small/style12.jpg",
+    "audio_path": "datasets/audio_subset/1-60460-A-36.wav",
+    "score": 0.024379,
+    "image_rel": "style12.jpg",
+    "audio_rel": "1-60460-A-36.wav"
+  }
+]
