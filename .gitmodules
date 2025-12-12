@@ -1,3 +1,6 @@
 [submodule "ImageBind"]
 	path = ImageBind
 	url = https://github.com/facebookresearch/ImageBind.git
+[submodule "pytorch-AdaIN"]
+	path = pytorch-AdaIN
+	url = https://github.com/naoto0804/pytorch-AdaIN
