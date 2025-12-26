@@ -1,0 +1,1402 @@
+[
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-102414-F-17.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet546.png",
+    "similarity": 0.256314,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-102414-F-17.wav",
+    "image_rel": "stylesheet546.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-157149-A-10.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet802.png",
+    "similarity": 0.351988,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-157149-A-10.wav",
+    "image_rel": "stylesheet802.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-237315-A-31.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet248.png",
+    "similarity": 0.256587,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-237315-A-31.wav",
+    "image_rel": "stylesheet248.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-40621-A-28.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet118.jpg",
+    "similarity": 0.222126,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-40621-A-28.wav",
+    "image_rel": "stylesheet118.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-163697-A-13.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet303.png",
+    "similarity": 0.319246,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-163697-A-13.wav",
+    "image_rel": "stylesheet303.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-118487-A-26.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1493.png",
+    "similarity": 0.221123,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-118487-A-26.wav",
+    "image_rel": "stylesheet1493.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-117120-A-42.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1569.png",
+    "similarity": 0.281806,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-117120-A-42.wav",
+    "image_rel": "stylesheet1569.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-222041-A-9.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1303.png",
+    "similarity": 0.333335,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-222041-A-9.wav",
+    "image_rel": "stylesheet1303.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-204777-C-39.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet168.jpg",
+    "similarity": 0.315039,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-204777-C-39.wav",
+    "image_rel": "stylesheet168.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-51909-B-42.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet058.jpg",
+    "similarity": 0.237884,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-51909-B-42.wav",
+    "image_rel": "stylesheet058.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-217186-C-16.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet020.jpg",
+    "similarity": 0.349534,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-217186-C-16.wav",
+    "image_rel": "stylesheet020.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-233160-A-1.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet048.png",
+    "similarity": 0.219373,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-233160-A-1.wav",
+    "image_rel": "stylesheet048.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-171823-A-13.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet007.jpg",
+    "similarity": 0.30055,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-171823-A-13.wav",
+    "image_rel": "stylesheet007.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-253094-D-49.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet987.png",
+    "similarity": 0.261954,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-253094-D-49.wav",
+    "image_rel": "stylesheet987.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-117615-D-48.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet063.jpg",
+    "similarity": 0.252554,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-117615-D-48.wav",
+    "image_rel": "stylesheet063.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-232802-A-31.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet432.png",
+    "similarity": 0.232656,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-232802-A-31.wav",
+    "image_rel": "stylesheet432.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-43807-D-47.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet058.jpg",
+    "similarity": 0.368521,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-43807-D-47.wav",
+    "image_rel": "stylesheet058.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-260640-A-2.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet053.png",
+    "similarity": 0.205012,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-260640-A-2.wav",
+    "image_rel": "stylesheet053.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-172649-F-40.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1319.png",
+    "similarity": 0.217328,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-172649-F-40.wav",
+    "image_rel": "stylesheet1319.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-68595-B-15.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet866.png",
+    "similarity": 0.261783,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-68595-B-15.wav",
+    "image_rel": "stylesheet866.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-118206-A-31.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet432.png",
+    "similarity": 0.291022,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-118206-A-31.wav",
+    "image_rel": "stylesheet432.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-208757-B-2.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet996.png",
+    "similarity": 0.24539,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-208757-B-2.wav",
+    "image_rel": "stylesheet996.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-213915-A-3.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet465.png",
+    "similarity": 0.211611,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-213915-A-3.wav",
+    "image_rel": "stylesheet465.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-133989-A-42.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet003.jpg",
+    "similarity": 0.248066,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-133989-A-42.wav",
+    "image_rel": "stylesheet003.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-146186-A-44.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet485.png",
+    "similarity": 0.209205,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-146186-A-44.wav",
+    "image_rel": "stylesheet485.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-61635-A-8.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet072.jpg",
+    "similarity": 0.264204,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-61635-A-8.wav",
+    "image_rel": "stylesheet072.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-91912-A-33.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet988.png",
+    "similarity": 0.22936,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-91912-A-33.wav",
+    "image_rel": "stylesheet988.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-96063-A-37.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet478.png",
+    "similarity": 0.207696,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-96063-A-37.wav",
+    "image_rel": "stylesheet478.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-122067-B-45.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1203.png",
+    "similarity": 0.276235,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-122067-B-45.wav",
+    "image_rel": "stylesheet1203.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-81001-B-30.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1065.png",
+    "similarity": 0.305879,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-81001-B-30.wav",
+    "image_rel": "stylesheet1065.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-62594-A-32.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet537.png",
+    "similarity": 0.24108,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-62594-A-32.wav",
+    "image_rel": "stylesheet537.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-99795-A-32.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet442.png",
+    "similarity": 0.255996,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-99795-A-32.wav",
+    "image_rel": "stylesheet442.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-107219-A-1.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet013.png",
+    "similarity": 0.201962,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-107219-A-1.wav",
+    "image_rel": "stylesheet013.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-157204-A-16.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet632.png",
+    "similarity": 0.210745,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-157204-A-16.wav",
+    "image_rel": "stylesheet632.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-154405-A-27.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet376.png",
+    "similarity": 0.264254,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-154405-A-27.wav",
+    "image_rel": "stylesheet376.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-130978-A-21.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1046.png",
+    "similarity": 0.223225,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-130978-A-21.wav",
+    "image_rel": "stylesheet1046.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-141240-B-44.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet627.png",
+    "similarity": 0.237348,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-141240-B-44.wav",
+    "image_rel": "stylesheet627.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-197454-B-28.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet927.png",
+    "similarity": 0.263413,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-197454-B-28.wav",
+    "image_rel": "stylesheet927.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-106849-A-47.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet151.jpg",
+    "similarity": 0.310601,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-106849-A-47.wav",
+    "image_rel": "stylesheet151.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-50668-A-41.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet303.png",
+    "similarity": 0.275403,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-50668-A-41.wav",
+    "image_rel": "stylesheet303.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-151269-A-35.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet212.png",
+    "similarity": 0.274257,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-151269-A-35.wav",
+    "image_rel": "stylesheet212.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-112213-B-39.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet809.png",
+    "similarity": 0.309662,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-112213-B-39.wav",
+    "image_rel": "stylesheet809.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-156558-A-21.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet368.png",
+    "similarity": 0.247105,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-156558-A-21.wav",
+    "image_rel": "stylesheet368.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-17367-A-10.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet043.png",
+    "similarity": 0.377323,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-17367-A-10.wav",
+    "image_rel": "stylesheet043.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-68630-C-40.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet058.jpg",
+    "similarity": 0.333338,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-68630-C-40.wav",
+    "image_rel": "stylesheet058.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-117116-A-37.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1640.png",
+    "similarity": 0.201003,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-117116-A-37.wav",
+    "image_rel": "stylesheet1640.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-201172-A-46.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1187.png",
+    "similarity": 0.243321,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-201172-A-46.wav",
+    "image_rel": "stylesheet1187.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-154926-A-40.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet058.jpg",
+    "similarity": 0.297379,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-154926-A-40.wav",
+    "image_rel": "stylesheet058.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-213836-D-9.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1313.png",
+    "similarity": 0.376214,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-213836-D-9.wav",
+    "image_rel": "stylesheet1313.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-155650-B-24.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet086.jpg",
+    "similarity": 0.232026,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-155650-B-24.wav",
+    "image_rel": "stylesheet086.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-17092-B-27.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet376.png",
+    "similarity": 0.236409,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-17092-B-27.wav",
+    "image_rel": "stylesheet376.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-50625-A-17.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1564.png",
+    "similarity": 0.294235,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-50625-A-17.wav",
+    "image_rel": "stylesheet1564.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-98193-A-46.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet482.png",
+    "similarity": 0.310627,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-98193-A-46.wav",
+    "image_rel": "stylesheet482.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-13613-A-37.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1640.png",
+    "similarity": 0.254199,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-13613-A-37.wav",
+    "image_rel": "stylesheet1640.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-102844-C-49.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1570.png",
+    "similarity": 0.249294,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-102844-C-49.wav",
+    "image_rel": "stylesheet1570.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-193473-B-12.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet034.png",
+    "similarity": 0.397764,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-193473-B-12.wav",
+    "image_rel": "stylesheet034.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-81112-A-34.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet333.png",
+    "similarity": 0.332776,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-81112-A-34.wav",
+    "image_rel": "stylesheet333.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-23222-B-19.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet150.jpg",
+    "similarity": 0.361096,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-23222-B-19.wav",
+    "image_rel": "stylesheet150.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-242932-B-26.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1284.png",
+    "similarity": 0.214908,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-242932-B-26.wav",
+    "image_rel": "stylesheet1284.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-161099-A-47.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet150.jpg",
+    "similarity": 0.289146,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-161099-A-47.wav",
+    "image_rel": "stylesheet150.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-152997-A-26.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1323.png",
+    "similarity": 0.234898,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-152997-A-26.wav",
+    "image_rel": "stylesheet1323.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-155858-F-25.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet302.png",
+    "similarity": 0.314056,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-155858-F-25.wav",
+    "image_rel": "stylesheet302.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-164661-B-12.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet163.jpg",
+    "similarity": 0.310407,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-164661-B-12.wav",
+    "image_rel": "stylesheet163.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-110913-B-7.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet160.jpg",
+    "similarity": 0.268916,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-110913-B-7.wav",
+    "image_rel": "stylesheet160.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-18631-A-23.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1244.png",
+    "similarity": 0.310485,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-18631-A-23.wav",
+    "image_rel": "stylesheet1244.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-200329-C-8.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet072.jpg",
+    "similarity": 0.265511,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-200329-C-8.wav",
+    "image_rel": "stylesheet072.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-84393-A-32.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet381.png",
+    "similarity": 0.22922,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-84393-A-32.wav",
+    "image_rel": "stylesheet381.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-130998-A-28.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet170.jpg",
+    "similarity": 0.229412,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-130998-A-28.wav",
+    "image_rel": "stylesheet170.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-132383-A-2.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet053.png",
+    "similarity": 0.239551,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-132383-A-2.wav",
+    "image_rel": "stylesheet053.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-53670-A-18.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet477.png",
+    "similarity": 0.263619,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-53670-A-18.wav",
+    "image_rel": "stylesheet477.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-165933-A-45.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1607.png",
+    "similarity": 0.139354,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-165933-A-45.wav",
+    "image_rel": "stylesheet1607.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-78562-A-37.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet040.jpg",
+    "similarity": 0.195517,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-78562-A-37.wav",
+    "image_rel": "stylesheet040.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-107228-B-44.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1633.png",
+    "similarity": 0.264991,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-107228-B-44.wav",
+    "image_rel": "stylesheet1633.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-118964-A-0.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet440.png",
+    "similarity": 0.174714,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-118964-A-0.wav",
+    "image_rel": "stylesheet440.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-201800-A-31.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet032.jpg",
+    "similarity": 0.288254,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-201800-A-31.wav",
+    "image_rel": "stylesheet032.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-158056-B-31.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet461.png",
+    "similarity": 0.190855,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-158056-B-31.wav",
+    "image_rel": "stylesheet461.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-155568-A-32.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet535.png",
+    "similarity": 0.170777,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-155568-A-32.wav",
+    "image_rel": "stylesheet535.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-194932-A-7.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet160.jpg",
+    "similarity": 0.353527,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-194932-A-7.wav",
+    "image_rel": "stylesheet160.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-94342-A-25.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet303.png",
+    "similarity": 0.389728,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-94342-A-25.wav",
+    "image_rel": "stylesheet303.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-57163-A-38.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1640.png",
+    "similarity": 0.359619,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-57163-A-38.wav",
+    "image_rel": "stylesheet1640.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-59324-A-21.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1046.png",
+    "similarity": 0.215859,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-59324-A-21.wav",
+    "image_rel": "stylesheet1046.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-161270-B-33.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1570.png",
+    "similarity": 0.207208,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-161270-B-33.wav",
+    "image_rel": "stylesheet1570.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-219379-C-11.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet552.png",
+    "similarity": 0.46692,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-219379-C-11.wav",
+    "image_rel": "stylesheet552.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-32515-B-4.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet824.png",
+    "similarity": 0.304439,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-32515-B-4.wav",
+    "image_rel": "stylesheet824.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-56233-A-9.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet302.png",
+    "similarity": 0.31318,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-56233-A-9.wav",
+    "image_rel": "stylesheet302.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-237499-A-4.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet824.png",
+    "similarity": 0.352651,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-237499-A-4.wav",
+    "image_rel": "stylesheet824.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-156999-E-19.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet164.jpg",
+    "similarity": 0.386279,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-156999-E-19.wav",
+    "image_rel": "stylesheet164.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-117271-A-0.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet367.png",
+    "similarity": 0.182771,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-117271-A-0.wav",
+    "image_rel": "stylesheet367.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-201988-A-44.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet908.png",
+    "similarity": 0.215254,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-201988-A-44.wav",
+    "image_rel": "stylesheet908.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-35687-A-38.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1640.png",
+    "similarity": 0.240481,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-35687-A-38.wav",
+    "image_rel": "stylesheet1640.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-145577-A-43.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet632.png",
+    "similarity": 0.219846,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-145577-A-43.wav",
+    "image_rel": "stylesheet632.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-220939-A-27.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet810.png",
+    "similarity": 0.240898,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-220939-A-27.wav",
+    "image_rel": "stylesheet810.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-251957-A-47.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet147.jpg",
+    "similarity": 0.295177,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-251957-A-47.wav",
+    "image_rel": "stylesheet147.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-66637-A-20.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1279.png",
+    "similarity": 0.143865,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-66637-A-20.wav",
+    "image_rel": "stylesheet1279.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-205090-A-32.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet032.jpg",
+    "similarity": 0.28076,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-205090-A-32.wav",
+    "image_rel": "stylesheet032.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-254832-A-15.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet477.png",
+    "similarity": 0.333306,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-254832-A-15.wav",
+    "image_rel": "stylesheet477.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-137-A-32.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet507.png",
+    "similarity": 0.213467,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-137-A-32.wav",
+    "image_rel": "stylesheet507.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-87936-A-46.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1187.png",
+    "similarity": 0.288246,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-87936-A-46.wav",
+    "image_rel": "stylesheet1187.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-100210-A-36.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet208.png",
+    "similarity": 0.2137,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-100210-A-36.wav",
+    "image_rel": "stylesheet208.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-83667-A-34.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet252.png",
+    "similarity": 0.219339,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-83667-A-34.wav",
+    "image_rel": "stylesheet252.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-119161-C-8.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet072.jpg",
+    "similarity": 0.202119,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-119161-C-8.wav",
+    "image_rel": "stylesheet072.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-118104-A-21.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet473.png",
+    "similarity": 0.233934,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-118104-A-21.wav",
+    "image_rel": "stylesheet473.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-62565-A-44.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1384.png",
+    "similarity": 0.276501,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-62565-A-44.wav",
+    "image_rel": "stylesheet1384.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-163608-B-16.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet129.jpg",
+    "similarity": 0.386262,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-163608-B-16.wav",
+    "image_rel": "stylesheet129.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-253649-A-6.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1440.png",
+    "similarity": 0.170877,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-253649-A-6.wav",
+    "image_rel": "stylesheet1440.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-185575-B-20.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1284.png",
+    "similarity": 0.196146,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-185575-B-20.wav",
+    "image_rel": "stylesheet1284.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-186936-A-44.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1569.png",
+    "similarity": 0.26266,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-186936-A-44.wav",
+    "image_rel": "stylesheet1569.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-26806-A-1.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet810.png",
+    "similarity": 0.213807,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-26806-A-1.wav",
+    "image_rel": "stylesheet810.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-135439-A-18.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet546.png",
+    "similarity": 0.320896,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-135439-A-18.wav",
+    "image_rel": "stylesheet546.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-118658-A-41.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet303.png",
+    "similarity": 0.249725,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-118658-A-41.wav",
+    "image_rel": "stylesheet303.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-36164-A-26.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet471.png",
+    "similarity": 0.191958,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-36164-A-26.wav",
+    "image_rel": "stylesheet471.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-223176-A-37.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet163.jpg",
+    "similarity": 0.23016,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-223176-A-37.wav",
+    "image_rel": "stylesheet163.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-244933-A-34.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet252.png",
+    "similarity": 0.264389,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-244933-A-34.wav",
+    "image_rel": "stylesheet252.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-152007-D-20.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1286.png",
+    "similarity": 0.222376,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-152007-D-20.wav",
+    "image_rel": "stylesheet1286.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-132830-A-32.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet442.png",
+    "similarity": 0.209891,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-132830-A-32.wav",
+    "image_rel": "stylesheet442.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-189237-A-12.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1313.png",
+    "similarity": 0.304793,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-189237-A-12.wav",
+    "image_rel": "stylesheet1313.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-115387-B-47.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet058.jpg",
+    "similarity": 0.264147,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-115387-B-47.wav",
+    "image_rel": "stylesheet058.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-120218-B-30.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet782.png",
+    "similarity": 0.318026,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-120218-B-30.wav",
+    "image_rel": "stylesheet782.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-78781-A-47.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet058.jpg",
+    "similarity": 0.293088,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-78781-A-47.wav",
+    "image_rel": "stylesheet058.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-160614-E-48.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet063.jpg",
+    "similarity": 0.257337,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-160614-E-48.wav",
+    "image_rel": "stylesheet063.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-151081-A-20.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1295.png",
+    "similarity": 0.24428,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-151081-A-20.wav",
+    "image_rel": "stylesheet1295.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-243036-A-29.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet007.jpg",
+    "similarity": 0.296608,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-243036-A-29.wav",
+    "image_rel": "stylesheet007.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-205898-A-40.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1322.png",
+    "similarity": 0.288912,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-205898-A-40.wav",
+    "image_rel": "stylesheet1322.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-124958-A-28.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1607.png",
+    "similarity": 0.238355,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-124958-A-28.wav",
+    "image_rel": "stylesheet1607.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-23094-A-15.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1403.png",
+    "similarity": 0.277473,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-23094-A-15.wav",
+    "image_rel": "stylesheet1403.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-233260-A-23.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet052.jpg",
+    "similarity": 0.331951,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-233260-A-23.wav",
+    "image_rel": "stylesheet052.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-154781-A-32.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet009.jpg",
+    "similarity": 0.195107,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-154781-A-32.wav",
+    "image_rel": "stylesheet009.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-22694-A-20.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1279.png",
+    "similarity": 0.161717,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-22694-A-20.wav",
+    "image_rel": "stylesheet1279.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-130979-A-21.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet149.jpg",
+    "similarity": 0.214542,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-130979-A-21.wav",
+    "image_rel": "stylesheet149.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-194930-A-1.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1191.png",
+    "similarity": 0.247835,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-194930-A-1.wav",
+    "image_rel": "stylesheet1191.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-209992-A-44.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet531.png",
+    "similarity": 0.191179,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-209992-A-44.wav",
+    "image_rel": "stylesheet531.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-31482-A-42.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet531.png",
+    "similarity": 0.333115,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-31482-A-42.wav",
+    "image_rel": "stylesheet531.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-36164-B-26.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet468.png",
+    "similarity": 0.18117,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-36164-B-26.wav",
+    "image_rel": "stylesheet468.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-193339-A-10.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1157.png",
+    "similarity": 0.332741,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-193339-A-10.wav",
+    "image_rel": "stylesheet1157.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-178402-A-43.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1384.png",
+    "similarity": 0.307072,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-178402-A-43.wav",
+    "image_rel": "stylesheet1384.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-54918-A-14.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet308.png",
+    "similarity": 0.282934,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-54918-A-14.wav",
+    "image_rel": "stylesheet308.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-151213-A-24.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1046.png",
+    "similarity": 0.210607,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-151213-A-24.wav",
+    "image_rel": "stylesheet1046.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-72547-A-14.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet798.png",
+    "similarity": 0.251615,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-72547-A-14.wav",
+    "image_rel": "stylesheet798.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-154758-A-44.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1343.png",
+    "similarity": 0.196472,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-154758-A-44.wav",
+    "image_rel": "stylesheet1343.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-67358-A-42.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1567.png",
+    "similarity": 0.210134,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-67358-A-42.wav",
+    "image_rel": "stylesheet1567.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-242492-A-3.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet072.jpg",
+    "similarity": 0.281905,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-242492-A-3.wav",
+    "image_rel": "stylesheet072.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-218199-D-35.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet129.jpg",
+    "similarity": 0.24694,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-218199-D-35.wav",
+    "image_rel": "stylesheet129.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-204119-A-39.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet508.png",
+    "similarity": 0.205709,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-204119-A-39.wav",
+    "image_rel": "stylesheet508.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-200329-A-8.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet072.jpg",
+    "similarity": 0.236439,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-200329-A-8.wav",
+    "image_rel": "stylesheet072.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-91359-A-11.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet552.png",
+    "similarity": 0.452222,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-91359-A-11.wav",
+    "image_rel": "stylesheet552.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-183882-A-28.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet191.png",
+    "similarity": 0.193362,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-183882-A-28.wav",
+    "image_rel": "stylesheet191.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-138465-A-43.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1314.png",
+    "similarity": 0.251975,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-138465-A-43.wav",
+    "image_rel": "stylesheet1314.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-118657-A-41.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet302.png",
+    "similarity": 0.259862,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-118657-A-41.wav",
+    "image_rel": "stylesheet302.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-156391-A-35.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet129.jpg",
+    "similarity": 0.328276,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-156391-A-35.wav",
+    "image_rel": "stylesheet129.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-216368-A-28.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet118.jpg",
+    "similarity": 0.286142,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-216368-A-28.wav",
+    "image_rel": "stylesheet118.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-34094-B-5.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1493.png",
+    "similarity": 0.153466,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-34094-B-5.wav",
+    "image_rel": "stylesheet1493.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-171652-A-44.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet068.png",
+    "similarity": 0.29076,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-171652-A-44.wav",
+    "image_rel": "stylesheet068.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-88409-B-45.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet147.jpg",
+    "similarity": 0.162961,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-88409-B-45.wav",
+    "image_rel": "stylesheet147.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-218304-A-25.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet001.jpg",
+    "similarity": 0.374573,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-218304-A-25.wav",
+    "image_rel": "stylesheet001.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-97909-A-49.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet795.png",
+    "similarity": 0.275397,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-97909-A-49.wav",
+    "image_rel": "stylesheet795.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-152039-B-3.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet053.png",
+    "similarity": 0.176613,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-152039-B-3.wav",
+    "image_rel": "stylesheet053.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-122067-A-45.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1203.png",
+    "similarity": 0.282347,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-122067-A-45.wav",
+    "image_rel": "stylesheet1203.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-108451-A-17.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1151.png",
+    "similarity": 0.258337,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-108451-A-17.wav",
+    "image_rel": "stylesheet1151.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-119161-B-8.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet669.png",
+    "similarity": 0.194497,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-119161-B-8.wav",
+    "image_rel": "stylesheet669.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-71964-A-4.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet824.png",
+    "similarity": 0.329228,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-71964-A-4.wav",
+    "image_rel": "stylesheet824.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-170338-A-41.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet463.png",
+    "similarity": 0.232686,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-170338-A-41.wav",
+    "image_rel": "stylesheet463.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-102567-C-35.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet129.jpg",
+    "similarity": 0.307377,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-102567-C-35.wav",
+    "image_rel": "stylesheet129.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-160614-C-48.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet063.jpg",
+    "similarity": 0.25533,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-160614-C-48.wav",
+    "image_rel": "stylesheet063.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-30322-A-12.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet089.png",
+    "similarity": 0.417331,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-30322-A-12.wav",
+    "image_rel": "stylesheet089.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-119120-E-48.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet063.jpg",
+    "similarity": 0.289889,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-119120-E-48.wav",
+    "image_rel": "stylesheet063.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-103422-A-2.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet834.png",
+    "similarity": 0.189304,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-103422-A-2.wav",
+    "image_rel": "stylesheet834.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-118069-B-27.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet377.png",
+    "similarity": 0.215137,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-118069-B-27.wav",
+    "image_rel": "stylesheet377.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-43802-A-42.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet558.png",
+    "similarity": 0.182376,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-43802-A-42.wav",
+    "image_rel": "stylesheet558.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-167077-A-20.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1284.png",
+    "similarity": 0.294074,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-167077-A-20.wav",
+    "image_rel": "stylesheet1284.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-51805-G-33.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1045.png",
+    "similarity": 0.220115,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-51805-G-33.wav",
+    "image_rel": "stylesheet1045.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-110536-A-26.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1046.png",
+    "similarity": 0.185734,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-110536-A-26.wav",
+    "image_rel": "stylesheet1046.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-57191-A-46.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet482.png",
+    "similarity": 0.292835,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-57191-A-46.wav",
+    "image_rel": "stylesheet482.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-195707-A-13.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet160.jpg",
+    "similarity": 0.312394,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-195707-A-13.wav",
+    "image_rel": "stylesheet160.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-73123-A-26.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet133.png",
+    "similarity": 0.199233,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-73123-A-26.wav",
+    "image_rel": "stylesheet133.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-218199-B-35.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet362.png",
+    "similarity": 0.272904,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-218199-B-35.wav",
+    "image_rel": "stylesheet362.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-204612-A-31.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet032.jpg",
+    "similarity": 0.214748,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-204612-A-31.wav",
+    "image_rel": "stylesheet032.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-9887-B-49.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet987.png",
+    "similarity": 0.22232,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-9887-B-49.wav",
+    "image_rel": "stylesheet987.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-186940-A-44.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet632.png",
+    "similarity": 0.183003,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-186940-A-44.wav",
+    "image_rel": "stylesheet632.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-188822-D-40.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet129.jpg",
+    "similarity": 0.27752,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-188822-D-40.wav",
+    "image_rel": "stylesheet129.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-253534-A-26.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet133.png",
+    "similarity": 0.255888,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-253534-A-26.wav",
+    "image_rel": "stylesheet133.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-187201-A-4.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet824.png",
+    "similarity": 0.346317,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-187201-A-4.wav",
+    "image_rel": "stylesheet824.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-114609-A-28.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet086.jpg",
+    "similarity": 0.344617,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-114609-A-28.wav",
+    "image_rel": "stylesheet086.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-186938-A-44.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet048.png",
+    "similarity": 0.256281,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-186938-A-44.wav",
+    "image_rel": "stylesheet048.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-208820-A-49.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1569.png",
+    "similarity": 0.243648,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-208820-A-49.wav",
+    "image_rel": "stylesheet1569.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-134699-B-16.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1307.png",
+    "similarity": 0.336556,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-134699-B-16.wav",
+    "image_rel": "stylesheet1307.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-182010-A-36.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1664.png",
+    "similarity": 0.264977,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-182010-A-36.wav",
+    "image_rel": "stylesheet1664.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-194892-A-10.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1157.png",
+    "similarity": 0.33962,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-194892-A-10.wav",
+    "image_rel": "stylesheet1157.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-152594-A-30.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet810.png",
+    "similarity": 0.207962,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-152594-A-30.wav",
+    "image_rel": "stylesheet810.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-120526-A-37.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet478.png",
+    "similarity": 0.22137,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-120526-A-37.wav",
+    "image_rel": "stylesheet478.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-198891-C-8.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet053.png",
+    "similarity": 0.20743,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-198891-C-8.wav",
+    "image_rel": "stylesheet053.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-54961-A-23.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet810.png",
+    "similarity": 0.268952,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-54961-A-23.wav",
+    "image_rel": "stylesheet810.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-153444-A-32.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet442.png",
+    "similarity": 0.226397,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-153444-A-32.wav",
+    "image_rel": "stylesheet442.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-96460-A-1.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet368.png",
+    "similarity": 0.174112,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/2-96460-A-1.wav",
+    "image_rel": "stylesheet368.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-51805-E-33.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet473.png",
+    "similarity": 0.19052,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/1-51805-E-33.wav",
+    "image_rel": "stylesheet473.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-145387-A-29.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet032.jpg",
+    "similarity": 0.268583,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-145387-A-29.wav",
+    "image_rel": "stylesheet032.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-143929-A-10.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1169.png",
+    "similarity": 0.273243,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/3-143929-A-10.wav",
+    "image_rel": "stylesheet1169.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-180156-B-43.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet632.png",
+    "similarity": 0.234687,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-180156-B-43.wav",
+    "image_rel": "stylesheet632.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-151242-A-37.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet040.jpg",
+    "similarity": 0.20429,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/4-151242-A-37.wav",
+    "image_rel": "stylesheet040.jpg"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-188365-A-36.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet1664.png",
+    "similarity": 0.253563,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-188365-A-36.wav",
+    "image_rel": "stylesheet1664.png"
+  },
+  {
+    "audio_path": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-236288-A-28.wav",
+    "image_path": "/graphics/scratch2/students/fmarvin/Stylesheets/stylesheet008.jpg",
+    "similarity": 0.228816,
+    "audio_rel": "/graphics/scratch2/students/reutemann/ESC-50-master/audio/5-236288-A-28.wav",
+    "image_rel": "stylesheet008.jpg"
+  }
+]

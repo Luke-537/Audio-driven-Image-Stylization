@@ -1,0 +1,7 @@
+{
+  "total_samples": 2000,
+  "train_samples": 1800,
+  "val_samples": 200,
+  "train_ratio": 0.9,
+  "seed": 3
+}
