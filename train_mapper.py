@@ -54,7 +54,7 @@ def train(train_features, val_features, checkpoint_dir, num_epochs, batch_size, 
     print(f"   Model parameters: {num_params:,}")
     
     # Optimizer and scheduler
-    optimizer = AdamW(model.parameters(), lr=learning_rate, weight_decay=1e-5)
+    optimizer = AdamW(model.parameters(), lr=learning_rate, weight_decay=1e-5) # 1e-4 1e-3 1e-2
     scheduler = CosineAnnealingLR(optimizer, T_max=num_epochs, eta_min=1e-6)
     
     # Training loop

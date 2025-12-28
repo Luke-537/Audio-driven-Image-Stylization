@@ -1,4 +1,5 @@
 import torch
+import torch.nn as nn
 from imagebind.models import imagebind_model
 import torchvision.transforms as transforms
 from imagebind import data as ib_data
@@ -34,6 +35,7 @@ class FeatureExtractor:
         self.vgg_encoder = net.vgg
         self.vgg_encoder.eval()
         self.vgg_encoder.load_state_dict(torch.load(".checkpoints/vgg_normalised.pth"))
+        self.vgg_encoder = nn.Sequential(*list(self.vgg_encoder.children())[:31])
         self.vgg_encoder.to(device)
         
         # Image transform for VGG
