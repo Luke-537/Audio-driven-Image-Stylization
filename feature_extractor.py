@@ -40,10 +40,9 @@ class FeatureExtractor:
         
         # Image transform for VGG
         self.transform = transforms.Compose([
-            transforms.Resize(256),
-            transforms.CenterCrop(256),
+            transforms.Resize(size=(512, 512)),
+            transforms.RandomCrop(256),
             transforms.ToTensor(),
-            transforms.Normalize([0.485, 0.456, 0.406], [0.229, 0.224, 0.225])
         ])
         
         print("Feature extraction models loaded")
@@ -158,12 +157,21 @@ def precompute_all_features(json_paths, output_dir, device='cuda'):
 
 if __name__ == '__main__':
 
-    precompute_all_features(
-        json_paths={
-            'train': './datasets/train.json',
-            'val': './datasets/val.json'
-        },
-        output_dir='./datasets',
-        device='cuda' if torch.cuda.is_available() else 'cpu'
-    )
-    
+    if(True):
+        precompute_all_features(
+            json_paths={
+                'train': './datasets/2000x10000/train.json',
+                'val': './datasets/2000x10000/val.json'
+            },
+            output_dir='./datasets/2000x10000',
+            device='cuda' if torch.cuda.is_available() else 'cpu'
+        )
+    else:
+        test = FeatureExtractor(device='cuda' if torch.cuda.is_available() else 'cpu')
+        style_mean, style_std = test.extract_style_statistics('./outputs/example_images/woman.png')
+
+        with open('test.json', 'w') as f:
+            json.dump({
+                'mean': style_mean.tolist(),
+                'std': style_std.tolist()
+            }, f)

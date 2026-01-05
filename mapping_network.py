@@ -4,7 +4,7 @@ import torch.nn.functional as F
 
 
 class AudioToStyleMapper(nn.Module):
-    def __init__(self, audio_dim=1024, style_dim=512, hidden_dims=[4096, 2048, 1024]): # [1024, 1024, 512]
+    def __init__(self, audio_dim=1024, style_dim=512, hidden_dims=[2048, 1024, 512]): # [1024, 1024, 512]
         super().__init__()
         
         layers = []
@@ -15,7 +15,7 @@ class AudioToStyleMapper(nn.Module):
                 nn.Linear(in_dim, hidden_dim),
                 nn.BatchNorm1d(hidden_dim),  # Try BatchNorm instead of LayerNorm
                 nn.ReLU(inplace=True),
-                nn.Dropout(0.2) # 0.3 0.4 0.5
+                nn.Dropout(0.3) # 0.2 0.3 0.4 0.5
             ])
             in_dim = hidden_dim
         
@@ -30,6 +30,6 @@ class AudioToStyleMapper(nn.Module):
         mean = params[:, :self.style_dim]
         # Use Softplus for better numerical stability than Exp
         std = F.softplus(params[:, self.style_dim:]) + 1e-5
-        #std = torch.exp(params[:, self.style_dim:])
+        # std = torch.exp(params[:, self.style_dim:])
         return mean, std
     

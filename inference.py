@@ -3,6 +3,7 @@ import torch.nn as nn
 from PIL import Image
 import torchvision.transforms as transforms
 from pathlib import Path
+from torchvision.utils import save_image
 
 import sys
 sys.path.insert(1, 'pytorch-AdaIN')
@@ -58,13 +59,25 @@ def extract_style_from_audio(audio_path, mapper, feature_extractor, device='cuda
         
         # Predict style statistics
         pred_mean, pred_std = mapper(audio_embed)
-        
+
+        # with open('test.json', 'w') as f:
+        #     json.dump({
+        #         'mean': pred_mean.tolist(),
+        #         'std': pred_std.tolist()
+        #     }, f)
+
+        # with open('test.json', 'r') as f:
+        #     data = json.load(f)
+        # pred_mean = torch.tensor(data['mean']).to(device)
+        # pred_std = torch.tensor(data['std']).to(device)
+
     return pred_mean, pred_std
 
 
 def apply_style_to_content(content_image, style_mean, style_std, vgg, decoder, alpha=1.0):
     """
     Apply predicted style statistics to content image.
+    Matches the original AdaIN implementation exactly.
     
     Args:
         content_image: Tensor [1, 3, H, W]
@@ -77,20 +90,21 @@ def apply_style_to_content(content_image, style_mean, style_std, vgg, decoder, a
         # Extract content features from VGG
         content_features = vgg(content_image)  # [1, 512, H, W]
         
-        # Get current content statistics
-        content_mean = content_features.mean(dim=[2, 3], keepdim=True)  # [1, 512, 1, 1]
-        content_std = content_features.std(dim=[2, 3], keepdim=True)    # [1, 512, 1, 1]
+        N, C, H, W = content_features.size()
+        feat_var = content_features.view(N, C, -1).var(dim=2) + 1e-5
+        content_std = feat_var.sqrt().view(N, C, 1, 1)
+        content_mean = content_features.view(N, C, -1).mean(dim=2).view(N, C, 1, 1)
         
         # Reshape predicted stats to match feature dimensions
         style_mean = style_mean.unsqueeze(-1).unsqueeze(-1)  # [1, 512, 1, 1]
         style_std = style_std.unsqueeze(-1).unsqueeze(-1)    # [1, 512, 1, 1]
         
-        # Apply adaptive instance normalization (ADaIN)
-        # Normalize content features
-        normalized_content = (content_features - content_mean) / (content_std + 1e-8)
+        # Apply adaptive instance normalization (AdaIN)
+        size = content_features.size()
+        normalized_content = (content_features - content_mean.expand(size)) / content_std.expand(size)
         
         # Apply style statistics
-        stylized_features = normalized_content * style_std + style_mean
+        stylized_features = normalized_content * style_std.expand(size) + style_mean.expand(size)
         
         # Blend with original content based on alpha
         blended_features = stylized_features * alpha + content_features * (1 - alpha)
@@ -117,11 +131,11 @@ def test_transform(size, crop):
 
 if __name__ == '__main__':
 
-    output_dir = "outputs/images/"
-    content_image_path = "outputs/images/woman.png"
-    content_audio_path= "outputs/images/vacuum.wav"
-    mapper_checkpooint = "/graphics/scratch2/students/reutemann/checkpoints/best_model.pt"
-    alpha = 0.8  # Style strength
+    output_dir = "outputs/stylized_2000x10000/"
+    content_image_path = "outputs/example_images/bike.png"
+    audio_path = "/graphics/scratch2/students/fmarvin/FSC22/audio612.wav"
+    mapper_checkpoint = "/graphics/scratch2/students/reutemann/checkpoints/2000x10000/best_model.pt"
+    alpha = 0.7  # Style strength
 
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     print(f"Using device: {device}")
@@ -129,7 +143,7 @@ if __name__ == '__main__':
     # Load models
     print("Loading models...")
     mapper, decoder, vgg, feature_extractor = load_models(
-        mapper_checkpooint,
+        mapper_checkpoint,
         "./.checkpoints/decoder.pth",
         "./.checkpoints/vgg_normalised.pth",
         device
@@ -142,9 +156,9 @@ if __name__ == '__main__':
     content_image = content_image.unsqueeze(0).to(device)
     
     # Extract style from audio
-    print(f"Processing audio: {content_audio_path}")
+    print(f"Processing audio: {audio_path}")
     style_mean, style_std = extract_style_from_audio(
-        content_audio_path,
+        audio_path,
         mapper,
         feature_extractor,
         device
@@ -165,11 +179,11 @@ if __name__ == '__main__':
    )
     
     # Save result
-    output_path = output_dir + f"{Path(content_image_path).stem}_styled_by_{Path(content_audio_path).stem}.jpg"
+    output_path = output_dir + f"{Path(content_image_path).stem}_styled_by_{Path(audio_path).stem}.jpg"
     
     # Convert to PIL and save
     output_cpu = output.squeeze(0).cpu()
     output_image = transforms.ToPILImage()(output_cpu)
-    output_image.save(output_path)
+    save_image(output, str(output_path))
     
     print(f"Saved stylized image to: {output_path}")

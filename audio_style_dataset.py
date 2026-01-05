@@ -7,7 +7,7 @@ class AudioStyleDataset(Dataset):
     """
     Dataset that loads pre-computed embeddings.
     """
-    def __init__(self, pickle_path, normalize=True):
+    def __init__(self, pickle_path, normalize=False):
         with open(pickle_path, 'rb') as f:
             self.data = pickle.load(f)
         

@@ -59,8 +59,8 @@ def split_dataset(input_json, output_dir, train_ratio=0.9,seed=42):
     
 if __name__ == "__main__":
     split_dataset(
-        input_json='data/audio_image_pairs.json',
-        output_dir='data',
+        input_json='datasets/10000x10000/10000x10000_audio_image_pairs.json',
+        output_dir='datasets/10000x10000',
         train_ratio=0.9,
         seed=3
     )

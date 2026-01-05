@@ -26,8 +26,8 @@ def train(train_features, val_features, checkpoint_dir, num_epochs, batch_size, 
     
     # Create datasets
     print("\n1. Loading precomputed datasets...")
-    train_dataset = AudioStyleDataset(train_features)
-    val_dataset = AudioStyleDataset(val_features)
+    train_dataset = AudioStyleDataset(train_features, normalize=False)
+    val_dataset = AudioStyleDataset(val_features, normalize=False)
     
     # Create dataloaders (no custom collate needed!)
     print("\n2. Creating dataloaders...")
@@ -71,6 +71,7 @@ def train(train_features, val_features, checkpoint_dir, num_epochs, batch_size, 
         pbar = tqdm(train_loader, desc=f'Epoch {epoch}/{num_epochs} [Train]')
         for batch in pbar:
             audio_embed = batch['audio_embedding'].to(device)
+            # audio_embed = torch.randn_like(audio_embed) * 0.01 + audio_embed  # Add small Gaussian noise
             target_mean = batch['style_mean'].to(device)
             target_std = batch['style_std'].to(device)
             
@@ -155,10 +156,10 @@ def train(train_features, val_features, checkpoint_dir, num_epochs, batch_size, 
 if __name__ == '__main__':
 
     train(
-        train_features='./datasets/train_features.pkl',
-        val_features='./datasets/val_features.pkl',
-        checkpoint_dir='/graphics/scratch2/students/reutemann/checkpoints',
-        num_epochs=100,
+        train_features='./datasets/2000x10000/train_features.pkl',
+        val_features='./datasets/2000x10000/val_features.pkl',
+        checkpoint_dir='/graphics/scratch2/students/reutemann/checkpoints/2000x10000',
+        num_epochs=50,
         batch_size=64,
         learning_rate=1e-4,
         device='cuda' if torch.cuda.is_available() else 'cpu'
